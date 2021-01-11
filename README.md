@@ -1,1 +1,5 @@
-# hello world
+---
+layout: page
+title: About
+---
+
