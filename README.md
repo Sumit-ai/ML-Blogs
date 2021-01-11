@@ -1,5 +1,7 @@
 This website will contain the blogs about ML and AI. 
 
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+~~This is green~~
+_this is blue_
+
 ## article 1: 
