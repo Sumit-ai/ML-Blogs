@@ -1,6 +1,6 @@
 This website will contain the blogs about ML and AI. 
 
 #### A blue heading
-{: .blue #blue-h}
+{: .blue}
 
 ## article 1: 
